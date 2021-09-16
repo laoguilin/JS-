@@ -120,7 +120,7 @@ let dxwsbody = $.getdata('dxwsbody')
 //获取签到body
 function zgdxck() {
 
-    if ($request.url.indexOf("sign") > -1) {
+    if ($request.url.indexOf("home/sign") > -1) {
 
         const zgdxbody = $request.body
 
@@ -136,7 +136,7 @@ function zgdxck() {
 //获取喂食body
 function dxwsck() {
 
-    if ($request.url.indexOf("food") > -1) {
+    if ($request.url.indexOf("paradise/food") > -1) {
 
         const dxwsbody = $request.body
 
