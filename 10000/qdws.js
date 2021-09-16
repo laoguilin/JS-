@@ -7,8 +7,8 @@ APP名称：电信营业厅
 
 QX
 [task_local]
-20 8 * * * https://raw.githubusercontent.com/laoguilin/JS-/main/10000/qdws.js, tag=电信营业厅, img-
-url=https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png, enabled=true
+20 8 * * * https://raw.githubusercontent.com/laoguilin/JS-/main/10000/qdws.js, tag=电信营业厅, 
+img-url=https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png, enabled=true
 */
 
 const $ = new Env('中国电信');
@@ -124,7 +124,7 @@ function zgdxck() {
         const zgdxbody = $request.body
 
         if (zgdxbody) $.setdata(zgdxbody, `zgdxbody${status}`)
-
+        console.log(zgdxbody)
         $.log(zgdxbody)
 
         $.msg($.name, "", `中国电信${status}获取签到数据成功`)
@@ -140,7 +140,7 @@ function dxwsck() {
         const dxwsbody = $request.body
 
         if (dxwsbody) $.setdata(dxwsbody, `dxwsbody${statuc}`)
-
+        console.log(dxwsbody)
         $.log(dxwsbody)
 
         $.msg($.name, "", `中国电信${statuc}获取喂食数据成功`)
