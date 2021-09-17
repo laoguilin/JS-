@@ -5,7 +5,7 @@ APP名称：电信营业厅
 获取方法：开启重写，点击签到获取签到body，喂食一次获取喂食body
 远程重写链接：https://raw.githubusercontent.com/laoguilin/JS-/main/10000/10000.conf
 脚本每日运行一次即可
-QX
+QX定时任务
 [task_local]
 20 8 * * * https://raw.githubusercontent.com/laoguilin/JS-/main/10000/qdws.js, tag=电信营业厅, 
 img-url=https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png, enabled=true
