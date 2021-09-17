@@ -26,6 +26,14 @@
         "repo": "https://github.com/laoguilin/JS-/blob/main/10000/qdws.js",
         "icons": ["https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png", "https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png"],
         "script": "https://raw.githubusercontent.com/laoguilin/JS-/main/10000/qdws.js"
-        }
+        },
+        {
+      "id": "zglt",
+      "name": "中国联通",
+      "keys": ["LtQdurl", "LtQdhd", "LtQdbody"], 
+      "repo": "https://github.com/laoguilin/", 
+      "script": "https://raw.githubusercontent.com/laoguilin/", 
+      "icons": [ "https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png","https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png"]
+    }
     ]
 }
