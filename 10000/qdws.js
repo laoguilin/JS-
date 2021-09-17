@@ -3,8 +3,16 @@ APP名称：电信营业厅
 脚本实现的功能：自动签到以及自动喂食，获取金豆兑换礼品，没有毛，没有毛，没有毛
 脚本需获取两个body，才能完成自动签到和喂食。
 获取方法：开启重写，点击签到获取签到body，喂食一次获取喂食body
-远程重写链接：https://raw.githubusercontent.com/laoguilin/JS-/main/10000/10000.conf
 脚本每日运行一次即可
+
+QX添加重写
+[rewrite_local]
+https://wapside.189.cn:9001/api url script-request-body https://raw.githubusercontent.com/laoguilin/JS-/main/10000/qdws.js
+https://wapside.189.cn:9001/jt-sign url script-request-body https://raw.githubusercontent.com/laoguilin/JS-/main/10000/qdws.js
+
+添加域名
+hostname = wapside.189.cn
+
 QX定时任务
 [task_local]
 20 8 * * * https://raw.githubusercontent.com/laoguilin/JS-/main/10000/qdws.js, tag=电信营业厅, 
