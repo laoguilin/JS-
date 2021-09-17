@@ -8,7 +8,7 @@
         "id": "ZgDx",
         "name": "中国电信",
         "keys": ["zgdxbody", "dxwsbody", "zgdxbody2", "dxwsbody2", "zgdxbody3", "dxwsbody3", "zgdxbody4", "dxwsbody4", "zgdxbody5", "dxwsbody5"],
-        "author": "@Ariszy",
+        "author": "laoguilin",
         "settings": [{
             "id": "dxzh",
             "name": "当前账号",
