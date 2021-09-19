@@ -30,7 +30,7 @@
         {
       "id": "zglt",
       "name": "中国联通",
-      "keys": ["LtQdurl", "LtQdhd", "LtQdbody"], 
+      "keys": ["LtQdurl", "LtQdhd"], 
       "repo": "https://github.com/laoguilin/", 
       "script": "https://raw.githubusercontent.com/laoguilin/", 
       "icons": [ "https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png","https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png"]
