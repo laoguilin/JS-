@@ -41,7 +41,7 @@
       "keys": ["cybody", "cytoken"], 
       "repo": "https://github.com/laoguilin/", 
       "script": "https://raw.githubusercontent.com/laoguilin/", 
-      "icons": [ "https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png","https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png"]
+      "icons": [ ""]
        }
     ]
 }
