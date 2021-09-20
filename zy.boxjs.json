@@ -41,7 +41,7 @@
       "keys": ["cybody", "cytoken"], 
       "repo": "https://github.com/laoguilin/", 
       "script": "https://raw.githubusercontent.com/laoguilin/", 
-      "icons": [ ""]
+      "icons": [""]
        }
     ]
 }
