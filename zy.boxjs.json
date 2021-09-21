@@ -42,6 +42,14 @@
       "repo": "https://github.com/laoguilin/", 
       "script": "https://raw.githubusercontent.com/laoguilin/", 
       "icons": [""]
+       },
+       {
+      "id": "cy",
+      "name": "成语",
+      "keys": ["chyuurl", "chyuhd", "chyubody"], 
+      "repo": "https://github.com/laoguilin/", 
+      "script": "https://raw.githubusercontent.com/laoguilin/", 
+      "icons": [""]
        }
     ]
 }
