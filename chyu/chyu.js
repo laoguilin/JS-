@@ -20,7 +20,7 @@
  * 对应重写目标：https://raw.githubusercontent.com/laoguilin/JS-/main/chyu/chyu.js
  * 
  * [task_local]
- * 自行设定脚本定时运行时间，脚本默认没错运行刷5个视频，可设置5-10分钟运行一次脚本
+ * 自行设定脚本定时运行时间，脚本默认每次运行刷5个视频，可设置5-10分钟运行一次脚本
  * 
  * MITM添加域名
  * hostname = speedcy.springglasses.com
