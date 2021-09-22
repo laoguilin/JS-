@@ -75,7 +75,7 @@ let chyutoken = $.getdata('chyutoken')
                 console.log(`\n\n成语极速版【共有${chyutokenArr.length}个账号】`)
                 console.log(`\n\n开始【执行第${$.index}个号刷视频】`)
                 for(let j=0; j<5; j++){
-                    let sjTimes = randomNum(30000,40000)
+                    let sjTimes = randomNum(30000,35000)
                     randomtime = sjTimes/1000
                     console.log(`开始第${j+1}次刷红包`)
                     console.log(`随机延迟${randomtime}秒`)
