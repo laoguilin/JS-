@@ -35,7 +35,7 @@
                 }
             ],
             "repo": "https://github.com/laoguilin/JS-/blob/main/chyu/chyu.js",
-            "icons": ["https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/chyu.png","https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/chyu.png"],
+            "icons": ["https://raw.githubusercontent.com/laoguilin/JS-/main/img/chyu.png","https://raw.githubusercontent.com/laoguilin/JS-/main/img/chyu.png"],
             "script": "https://raw.githubusercontent.com/laoguilin/JS-/main/chyu/chyu.js"
         }
     ]
