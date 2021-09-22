@@ -137,11 +137,11 @@ function sphb(timeout = 0) {
                 //$.log(data);                
                 if (data.length >= 364) {
 
-                    console.log(`刷视频成功`);
+                    $.log(`刷视频成功`);
 
                 } else {
 
-                    console.log(`刷视频失败`);
+                    $.log(`刷视频失败`);
 
                 }
             } catch (e) {
