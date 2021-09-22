@@ -24,6 +24,8 @@
  * 
  * MITM添加域名
  * hostname = speedcy.springglasses.com
+ *
+ * boxjs订阅地址：https://raw.githubusercontent.com/laoguilin/JS-/main/chyu/chyu.boxjs.json
  */
 
 const $ = new Env('成语极速版');
