@@ -50,6 +50,14 @@
       "repo": "https://github.com/laoguilin/", 
       "script": "https://raw.githubusercontent.com/laoguilin/", 
       "icons": [""]
-       }
+       },
+       {
+      "id": "sq",
+      "name": "书旗",
+      "keys": ["chyubody"], 
+      "repo": "https://github.com/laoguilin/", 
+      "script": "https://raw.githubusercontent.com/laoguilin/", 
+      "icons": [""]
+       }      
     ]
 }
