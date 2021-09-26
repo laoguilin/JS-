@@ -58,6 +58,14 @@
       "repo": "https://github.com/laoguilin/", 
       "script": "https://raw.githubusercontent.com/laoguilin/", 
       "icons": [""]
-       }      
+       },
+       {
+      "id": "dtwz",
+      "name": "答题王者",
+      "keys": ["dtwzurl", "dtwzhd", "dtwzbody"], 
+      "repo": "https://github.com/laoguilin/", 
+      "script": "https://raw.githubusercontent.com/laoguilin/", 
+      "icons": [""]
+       }  
     ]
 }
