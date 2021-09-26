@@ -66,6 +66,14 @@
       "repo": "https://github.com/laoguilin/", 
       "script": "https://raw.githubusercontent.com/laoguilin/", 
       "icons": [""]
-       }  
+       },
+       {
+      "id": "xyzp",
+      "name": "幸运转盘",
+      "keys": ["xyzphd", "xyzpbody"], 
+      "repo": "https://github.com/laoguilin/", 
+      "script": "https://raw.githubusercontent.com/laoguilin/", 
+      "icons": [""]
+       }
     ]
 }
