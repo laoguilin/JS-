@@ -2,8 +2,8 @@
 9.28
 
 软件：  动物王国
-在微信扫码 注册登录 
-下载地址微信扫码：https://raw.githubusercontent.com/laoguilin/JS-/main/img/dwwg.jpg
+微信扫码 注册登录 
+微信二维码：https://raw.githubusercontent.com/laoguilin/JS-/main/img/dwwg.jpg
 收益：  每天签到2毛，其它收益未知
 注意事项 ： 运行js时不要打开软件app
 
