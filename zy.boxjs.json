@@ -74,6 +74,14 @@
       "repo": "https://github.com/laoguilin/", 
       "script": "https://raw.githubusercontent.com/laoguilin/", 
       "icons": [""]
+       },
+       {
+      "id": "dwwg",
+      "name": "动物王国",
+      "keys": ["dwwghd", "dwwgurl"], 
+      "repo": "https://github.com/laoguilin/", 
+      "script": "https://raw.githubusercontent.com/laoguilin/", 
+      "icons": [""]
        }
     ]
 }
