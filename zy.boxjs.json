@@ -54,7 +54,7 @@
        {
       "id": "sq",
       "name": "书旗",
-      "keys": ["sqbody"], 
+      "keys": ["sqbody", "sqheader"], 
       "repo": "https://github.com/laoguilin/", 
       "script": "https://raw.githubusercontent.com/laoguilin/", 
       "icons": [""]
