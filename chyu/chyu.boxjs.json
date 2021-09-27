@@ -69,9 +69,9 @@
                     "desc": "0关闭通知，1打开通知"
                 }
             ],
-            "repo": "https://github.com/laoguilin/JS-/blob/main/chyu/chyu.js",
+            "repo": "https://github.com/laoguilin/JS-/blob/main/dwwg/dwwg.js",
             "icons": ["https://raw.githubusercontent.com/laoguilin/JS-/main/img/chyu.png","https://raw.githubusercontent.com/laoguilin/JS-/main/img/chyu.png"],
-            "script": "https://raw.githubusercontent.com/laoguilin/JS-/main/chyu/chyu.js"
+            "script": "https://raw.githubusercontent.com/laoguilin/JS-/main/dwwg/dwwg.js"
         }
     ]
 }
