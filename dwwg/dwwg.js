@@ -24,7 +24,7 @@ hostname = xud66.com.xiud66.top
 [task_local]
 自行设定时间，每天运行一次即可
 
-支持多账号：多账号设置请到boxjs里设置好需要抓取第几个账号后，微信切换账号扫码即可
+支持多账号：多账号设置请到boxjs里设置好需要抓取第几个账号后，微信扫码登陆即可自动获取CK
 boxjs订阅地址：https://raw.githubusercontent.com/laoguilin/JS-/main/chyu/lgl.boxjs.json
 
 */
