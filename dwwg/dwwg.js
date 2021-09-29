@@ -24,7 +24,7 @@ hostname = xud66.com.xiud66.top
 [task_local]
 自行设定时间，每天运行一次即可
 
-支持多账号：多账号设置请到boxjs里设置好需要抓取第几个账号后，微信扫码登陆即可自动获取CK
+支持多账号：多账号设置请到boxjs里设置好需要抓取第几个账号后，微信扫码登陆即可获取ck
 boxjs订阅地址：https://raw.githubusercontent.com/laoguilin/JS-/main/chyu/lgl.boxjs.json
 
 */
@@ -118,9 +118,9 @@ function dwwgqd(timeout = 0) {
 
                 data = JSON.stringify(resp)
                 data = data.split('body":"')[1].split(`"`)[0]
-                console.log(`【签到】：${data} \n`)
-                //$.message += `【签到】：${data} \n`
-                $.msg($.name, "", `动物王国【签到】：${data} \n`)
+                //console.log(`【签到】：${data} \n`)
+                $.message = `【第${$.index}个号】签到：${data} \n`
+                message()
                 await $.wait(3000)
                 console.log(`开始检测金币余额\n`);
                 await dwwgye()
@@ -151,13 +151,15 @@ function dwwgye(timeout = 0) {
                 console.log(`【金币余额】： ${data} 元 \n`)
                 if(data >= 1.1){
                     await $.wait(3000)
-                    console.log(`【提现检测】：达到最低提现额度，开始自动提现\n`);
-                    $.message += `【提现检测】：达到最低提现额度，开始自动提现\n`
+                    console.log(`检测【第${$.index}个号】：达到最低提现额度，开始自动提现\n`);
+                    $.message = `检测【第${$.index}个号】：达到最低提现额度，开始自动提现\n`
+                    message()
                     dwwgtx()
                 }else{
 
-                    console.log(`【提现检测】：未达到提现额度，不进行自动提现\n`);
-                    $.message += `【提现检测】：未达到提现额度，不进行自动提现\n`
+                    console.log(`检测【第${$.index}个号】：余额不足，不进行自动提现\n`);
+                    $.message = `检测【第${$.index}个号】：余额不足，不进行自动提现`
+                    message()
                 }
 
 
@@ -185,7 +187,8 @@ function dwwgtx(timeout = 0) {
                 data = JSON.stringify(resp)
                 data = data.split('body":"')[1].split(`"`)[0]
                 console.log(data)
-                $.message += `【提现】：${data}`
+                $.message = (`【第${$.index}个号提现】：${data}`)
+                message()
             } catch (e) {
 
             } finally {
