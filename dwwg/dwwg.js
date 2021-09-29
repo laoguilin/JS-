@@ -38,7 +38,7 @@ const dwwgurlArr = [], dwwghdArr = [], dwwgcount = ''
 
 let dwwgurl = $.getdata('dwwgurl')
 let dwwghd = $.getdata('dwwghd')
-let tz = ($.getval('tz') || '1'); //通知
+let dwwgtz = ($.getval('dwwgtz') || '1'); //通知
 $.message = ''
 !(async () => {
     if (typeof $request !== "undefined") {
@@ -197,7 +197,7 @@ function dwwgtx(timeout = 0) {
 
 
 function message() {
-    if(tz == 1){
+    if(dwwgtz == 1){
         $.msg($.name,``,$.message)}
     }
 
