@@ -119,7 +119,8 @@ function dwwgqd(timeout = 0) {
                 data = JSON.stringify(resp)
                 data = data.split('body":"')[1].split(`"`)[0]
                 console.log(`【签到】：${data} \n`)
-                $.message += `【签到】：${data} \n`
+                //$.message += `【签到】：${data} \n`
+                $.msg($.name, "", `动物王国【签到】：${data} \n`)
                 await $.wait(3000)
                 console.log(`开始检测金币余额\n`);
                 await dwwgye()
