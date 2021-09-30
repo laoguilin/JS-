@@ -12,14 +12,14 @@
 支持QX,v2p自动获取ck
 QX重写
 [rewrite_local]
-http://xud66.com.xiud66.top/member/bin.php? url script-request-header https://raw.githubusercontent.com/laoguilin/JS-/main/dwwg/dwwg.js
+http://fapp.jnxy.shop/member/bin.php? url script-request-header https://raw.githubusercontent.com/laoguilin/JS-/main/dwwg/dwwg.js
 
 v2p重写
-匹配链接（正则表达式）：http://xud66.com.xiud66.top/member/bin.php?
+匹配链接（正则表达式）：http://fapp.jnxy.shop/member/bin.php?
 对应重写目标：https://raw.githubusercontent.com/laoguilin/JS-/main/dwwg/dwwg.js
 
 MITM添加域名
-hostname = xud66.com.xiud66.top
+hostname = fapp.jnxy.shop
 
 [task_local]
 自行设定时间，每天运行一次即可
@@ -109,7 +109,7 @@ function dwwgqd(timeout = 0) {
         ck = JSON.stringify(dwwghd.split('Cookie":"')[1].split('"')[0])
 
         let url = {
-            url: `http://xud66.com.xiud66.top/member/bin.php?act=setSign&h_username=${username}&h_point1=0`,
+            url: `http://fapp.jnxy.shop/member/bin.php?act=setSign&h_username=${username}&h_point1=0`,
             headers: {"Cookie":`${ck}`},
         }
 
@@ -138,7 +138,7 @@ function dwwgye(timeout = 0) {
     return new Promise((resolve) => {
 
         let url = {
-            url: `http://xud66.com.xiud66.top/member/tuiguang1.php`,
+            url: `http://fapp.jnxy.shop/member/tuiguang1.php`,
             headers: {"Cookie":`${ck}`},
         }
 
@@ -177,7 +177,7 @@ function dwwgtx(timeout = 0) {
     return new Promise((resolve) => {
 
         let url = {
-            url: `http://xud66.com.xiud66.top/member/bin.php?act=point2_withdraw&num=1.1&alipayUserName=undefined&alipayFullName=undefined`,
+            url: `http://fapp.jnxy.shop/member/bin.php?act=point2_withdraw&num=1.1&alipayUserName=undefined&alipayFullName=undefined`,
             headers: {"Cookie":`${ck}`},
         }
 
