@@ -2,8 +2,7 @@
 2021.09.28完成
 
 软件名称：  动物王国
-微信扫码 注册登录 
-微信二维码：https://raw.githubusercontent.com/laoguilin/JS-/main/img/dwwg.jpg
+注册登录链接：http://fapp.jnxy.shop/member/reg.php?t=17376208117
 收益：  每天签到2毛，其它收益未知
 注意事项 ： 运行js时不要打开软件app
 
