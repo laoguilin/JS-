@@ -82,6 +82,14 @@
       "repo": "https://github.com/laoguilin/", 
       "script": "https://raw.githubusercontent.com/laoguilin/", 
       "icons": [""]
+       },
+       {
+      "id": "jm",
+      "name": "芥么",
+      "keys": ["jmhd", "jmurl", "jmbody"], 
+      "repo": "https://github.com/laoguilin/", 
+      "script": "https://raw.githubusercontent.com/laoguilin/", 
+      "icons": [""]
        }
     ]
 }
