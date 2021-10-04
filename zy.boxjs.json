@@ -86,7 +86,7 @@
        {
             "id": "JM",
             "name": "芥么",
-            "keys": ["jmurl", "jmhd", "jmbody", "jmurl2", "jmhd2", "jmbody2", "jmurl3", "jmhd3", "jmbody3", "jmurl4", "jmhd4", "jmbody4"],
+            "keys": ["jmhd", "jmbody", "jmtxbody", "jmhd2", "jmbody2", "jmtxbody2", "jmhd3", "jmbody3", "jmtxbody3", "jmhd4", "jmbody4", "jmtxbody4"],
             "author": "@laoguilin",
             "settings": [
                 {
