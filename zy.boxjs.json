@@ -114,6 +114,14 @@
             "repo": "",
             "icons": ["",""],
             "script": ""
-        }
+        },
+        {
+      "id": "hlzc",
+      "name": "欢乐找茬",
+      "keys": ["hlzchd", "hlzcbody", "hlzcsphd", "hlzcspbody"], 
+      "repo": "https://github.com/laoguilin/", 
+      "script": "https://raw.githubusercontent.com/laoguilin/", 
+      "icons": [""]
+       }
     ]
 }
