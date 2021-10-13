@@ -126,7 +126,7 @@
        {
       "id": "zxg",
       "name": "自选股",
-      "keys": ["zxgrwck", "zxgrwhd", "zxgjbck", "zxgjbhd"], 
+      "keys": ["zxgrwck", "zxgrwhd", "zxgjbck", "zxgjbhd", "zxgtxhd", "zxgzdck", "zxgqdhd", "wxzxgck"], 
       "repo": "https://github.com/laoguilin/", 
       "script": "https://raw.githubusercontent.com/laoguilin/", 
       "icons": [""]
