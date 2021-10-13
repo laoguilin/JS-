@@ -122,6 +122,14 @@
       "repo": "https://github.com/laoguilin/", 
       "script": "https://raw.githubusercontent.com/laoguilin/", 
       "icons": [""]
+       },
+       {
+      "id": "zxg",
+      "name": "自选股",
+      "keys": ["txzxgrwck", "txzxgrwhd"], 
+      "repo": "https://github.com/laoguilin/", 
+      "script": "https://raw.githubusercontent.com/laoguilin/", 
+      "icons": [""]
        }
     ]
 }
