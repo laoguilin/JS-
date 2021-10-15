@@ -130,6 +130,14 @@
       "repo": "https://github.com/laoguilin/", 
       "script": "https://raw.githubusercontent.com/laoguilin/", 
       "icons": [""]
+       },
+       {
+      "id": "aiqicha",
+      "name": "爱企查",
+      "keys": ["aiqicck"], 
+      "repo": "https://github.com/laoguilin/", 
+      "script": "https://raw.githubusercontent.com/laoguilin/", 
+      "icons": [""]
        }
     ]
 }
