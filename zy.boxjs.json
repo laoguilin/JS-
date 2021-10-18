@@ -134,7 +134,7 @@
        {
       "id": "aiqicha",
       "name": "爱企查",
-      "keys": ["aiqicurl", "aiqichd"], 
+      "keys": ["aiqichd"], 
       "repo": "https://github.com/laoguilin/", 
       "script": "https://raw.githubusercontent.com/laoguilin/", 
       "icons": [""]
