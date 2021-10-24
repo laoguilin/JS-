@@ -101,14 +101,14 @@
                     "desc": "0关闭通知，1打开通知"
                 }
             ],
-            "repo": "https://github.com/laoguilin/JS-/blob/main/dwwg/dwwg.js",
-            "icons": ["https://raw.githubusercontent.com/laoguilin/JS-/main/img/dwwg.png","https://raw.githubusercontent.com/laoguilin/JS-/main/img/dwwg.png"],
-            "script": "https://raw.githubusercontent.com/laoguilin/JS-/main/dwwg/dwwg.js"
+            "repo": "https://github.com/laoguilin/JS-/blob/main/aqc/ifaqc.js",
+            "icons": ["https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/aqc.png","https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/aqc.png"],
+            "script": "https://raw.githubusercontent.com/laoguilin/JS-/main/aic/ifaqc.js"
         },
         {
     "id": "jscfz",
     "name": "嘉实宠粉站",
-    "keys": ["jscfzheader","jscfzheader2","jscfzheader3","jscfzheader4","jscfzheader5",],
+    "keys": ["jscfzheader","jscfzheader2","jscfzheader3","jscfzheader4","jscfzheader5"],
     "author": "@tom",
     "settings": [{
       "id": "jscfzSuffix",
