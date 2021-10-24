@@ -108,7 +108,7 @@
         {
     "id": "jscfz",
     "name": "嘉实宠粉站",
-    "keys": ["jscfzheader","jscfzheader2","jscfzheader3","jscfzheader4","jscfzheader5","jscfzheader6","jscfzheader7","jscfzheader8","jscfzheader9","jscfzheader10","jscfzheader11","jscfzheader12","jscfzheader13","jscfzheader14","jscfzheader15"],
+    "keys": ["jscfzheader","jscfzheader2","jscfzheader3","jscfzheader4","jscfzheader5",],
     "author": "@tom",
     "settings": [{
       "id": "jscfzSuffix",
