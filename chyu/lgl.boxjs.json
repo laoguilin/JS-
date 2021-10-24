@@ -127,6 +127,37 @@
     "repo": "https://raw.githubusercontent.com/xl2101200/-/main/jscfz.js",
     "icons": ["https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg", "https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg"],
     "script": "https://raw.githubusercontent.com/xl2101200/-/main/jscfz.js"
+    },
+    {
+        "id": "csjdapp",
+        "name": "创视节点APP",
+        "keys": ["csjdPhone","csjdPhone2"],
+        "settings": [{
+            "id": "csjdcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+        }, {
+            "id": "csjdPhone",
+            "name": "创视节点APP账户密码1",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }
+		, {
+            "id": "csjdPhone2",
+            "name": "创视节点APP账户密码2",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }],
+        "icons": [
+            "https://www.mi.com/favicon.ico",
+            "https://www.mi.com/favicon.ico"],
+        "author": "@byxiaopeng",
+        "repo": "https://github.com/byxiaopeng/myscripts",
+        "script": "https://raw.fastgit.org/byxiaopeng/myscripts/main/csjd.js"
     }
     ]
 }
