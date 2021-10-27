@@ -158,6 +158,118 @@
         "author": "@byxiaopeng",
         "repo": "https://github.com/byxiaopeng/myscripts",
         "script": "https://raw.fastgit.org/byxiaopeng/myscripts/main/csjd.js"
+    },
+    {
+      "id": "zqKkz",
+      "name": "中青看看赚",
+      "keys": [
+        "zqlookStartbody"
+      ],
+      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/zq/zqkkz.js",
+      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zqkkz.js",
+
+      "icons": [
+        "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/kongfu.jpg",
+        "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/kongfu.jpg"
+      ]
+    },
+    {
+      "id": "zqRead",
+      "name": "中青自动阅读",
+      "keys": [
+        "zqwzbody",
+        "zq_timebody"
+      ],
+      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/zq/zqwz.js",
+      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zqwz.js",
+      "icons": [
+        "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/kongfu.jpg",
+        "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/kongfu.jpg"
+      ]
+    },
+    {
+      "id": "zqSign",
+      "name": "中青签到&宝箱",
+      "keys": [
+        "zqqdbody",
+        "zqboxbody"
+      ],
+      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/zq/zqqd.js",
+      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zqqd.js",
+      "icons": [
+        "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/kongfu.jpg",
+        "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/kongfu.jpg"
+      ]
+    },
+    {
+      "id": "zqcookie",
+      "name": "中青火爆转发&好友签到红包&福利视频&打卡赚",
+      "keys": [
+        "zq_cookie"
+      ],
+      "repo": "https://github.com/shaolin-kongfu/js_scripts/tree/main/zq",
+      "script": "https://github.com/shaolin-kongfu/js_scripts/tree/main/zq",
+      "icons": [
+      "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/kongfu.jpg",
+      "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/kongfu.jpg"
+      ]
+     },
+     {
+      "id": "zqssz.js",
+      "name": "中青搜索赚",
+      "keys": [
+        "zqsszbody"
+      ],
+      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/zq/zq_Adv_video.js",
+      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zq_Adv_video.js",
+      "icons": [
+      "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/kongfu.jpg",
+      "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/kongfu.jpg"
+      ]
+     },
+     {
+      "id": "zqllz.js",
+      "name": "中青浏览赚",
+      "keys": [
+        "zqllzbody"
+      ],
+      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/zq/zq_Adv_video.js",
+      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zq_Adv_video.js",
+      "icons": [
+      "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/kongfu.jpg",
+      "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/kongfu.jpg"
+      ]
+     },
+    {
+      "id": "zq_withdraw",
+      "name": "中青提现",
+      "keys":
+        ["zq_withdraw","zq_cash"],
+  "settings": [{
+          "id": "zq_cash",
+          "val": "30",
+          "name": "提现金额",
+          "type": "radios",
+          "desc": "自动提现金额需和获取提现请求保持一致",
+          "items": [
+            {
+              "key": "10",
+              "label": "10元"
+            },
+            {
+              "key": "30",
+              "label": "30元"
+            }
+          ]
+        }
+        ],
+
+      "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/zq/zq_withdraw.js",
+      "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zq_withdraw.js",
+      "icons": [
+      "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/kongfu.jpg",
+      "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/kongfu.jpg"
+      ]
     }
     ]
 }
