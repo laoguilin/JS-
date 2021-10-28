@@ -41,7 +41,7 @@
         {
             "id": "aqc",
             "name": "爱企查",
-            "keys": ["aqcck", "aqcbody", "aqcck2", "aqcbody2", "aqcck3", "aqcbody3", "aqcck4", "aqcbody4", "aqcck5", "aqcbody5"],
+            "keys": ["aqcck", "aqchd", "aqcck2", "aqchd2", "aqcck3", "aqchd3", "aqcck4", "aqchd4", "aqcck5", "aqchd5"],
             "author": "@laoguilin",
             "settings": [
                 {
