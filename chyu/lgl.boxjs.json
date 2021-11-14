@@ -329,6 +329,37 @@
             "icons": ["https://gitee.com/tom210120/tom/raw/master/Tom/Tom.jpg", "https://gitee.com/tom210120/tom/raw/master/Tom/Tom.jpg"],
             "script": "https://gitee.com/tom210120/tom/raw/master/QKHQ/qkhq.js",
             "icon": "https://gitee.com/tom210120/tom/raw/master/Tom/Tom.jpg"
+        },
+	{
+        "id": "xmapp",
+        "name": "小米运动APP",
+        "keys": ["xmPhone","xmPhone2"],
+        "settings": [{
+            "id": "xmcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+        }, {
+            "id": "xmPhone",
+            "name": "小米运动APP账户密码1",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
         }
+		, {
+            "id": "xmPhone2",
+            "name": "小米运动APP账户密码2",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }],
+        "icons": [
+            "https://www.mi.com/favicon.ico",
+            "https://www.mi.com/favicon.ico"],
+        "author": "@byxiaopeng",
+        "repo": "https://github.com/byxiaopeng/myscripts",
+        "script": "https://raw.fastgit.org/byxiaopeng/myscripts/main/xmyd.js"
+    }
     ]
 }
