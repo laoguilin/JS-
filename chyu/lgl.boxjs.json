@@ -364,7 +364,7 @@
     {
             "id": "newjz",
             "name": "九章头条",
-            "keys": ["newjzhd", "newjztokey", "newjzhd2", "newjztokey2", "newjzhd3", "newjztokey3", "newjzhd4", "newjztokey4", "newjzhd5", "newjztokey5"],
+            "keys": ["newjzhd", "newjztoken", "newjzhd2", "newjztoken2", "newjzhd3", "newjztoken3", "newjzhd4", "newjztoken4", "newjzhd5", "newjztoken5"],
             "author": "@laoguilin",
             "settings": [
                 {
