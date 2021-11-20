@@ -360,6 +360,38 @@
         "author": "@byxiaopeng",
         "repo": "https://github.com/byxiaopeng/myscripts",
         "script": "https://raw.fastgit.org/byxiaopeng/myscripts/main/xmyd.js"
-    }
+    },
+    {
+            "id": "newjz",
+            "name": "九章头条",
+            "keys": ["newjzhd", "newjztokey", "newjzhd2", "newjztokey2", "newjzhd3", "newjztokey3", "newjzhd4", "newjztokey4", "newjzhd5", "newjztokey5"],
+            "author": "@laoguilin",
+            "settings": [
+                {
+                    "id": "newjzstatus",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、3、4"
+                },
+                {
+                    "id": "newjzcount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                },
+                {
+                    "id": "newjztz",
+                    "name": "通知",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "0关闭通知，1打开通知"
+                }
+            ],
+            "repo": "https://github.com/laoguilin/JS-/blob/main/aqc/ifaqc.js",
+            "icons": ["https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/aqc.png","https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/aqc.png"],
+            "script": "https://raw.githubusercontent.com/laoguilin/JS-/main/aqc/ifaqc.js"
+        }
     ]
 }
