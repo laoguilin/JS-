@@ -392,6 +392,14 @@
             "repo": "https://github.com/laoguilin/JS-/blob/main/aqc/ifaqc.js",
             "icons": ["https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/aqc.png","https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/aqc.png"],
             "script": "https://raw.githubusercontent.com/laoguilin/JS-/main/aqc/ifaqc.js"
-        }
+        },
+	{
+      "id": "daw",
+      "name": "都爱玩",
+      "keys": ["dawToken"], 
+      "repo": "https://github.com/laoguilin/", 
+      "script": "https://raw.githubusercontent.com/laoguilin/", 
+      "icons": [ "https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png","https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png"]
+       }
     ]
 }
