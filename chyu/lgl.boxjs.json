@@ -448,6 +448,14 @@
       "repo": "https://github.com/laoguilin/", 
       "script": "https://raw.githubusercontent.com/laoguilin/", 
       "icons": [ "https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png","https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png"]
+       },
+       {
+      "id": "jsb2048",
+      "name": "2048极速版",
+      "keys": ["jsb2048hd", "jsb2048body", "jsb2048txhd", "jsb2048txbody", "jsb2048spbody"], 
+      "repo": "https://github.com/laoguilin/", 
+      "script": "https://raw.githubusercontent.com/laoguilin/", 
+      "icons": [ "https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png","https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png"]
        }
     ]
 }
