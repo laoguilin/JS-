@@ -456,6 +456,14 @@
       "repo": "https://github.com/laoguilin/", 
       "script": "https://raw.githubusercontent.com/laoguilin/", 
       "icons": [ "https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png","https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png"]
+       },
+       {
+      "id": "ksjs",
+      "name": "快手极速版",
+      "keys": ["kshd", "ksgjbody", "ggqqbody"], 
+      "repo": "https://github.com/laoguilin/", 
+      "script": "https://raw.githubusercontent.com/laoguilin/", 
+      "icons": [ "https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png","https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png"]
        }
     ]
 }
