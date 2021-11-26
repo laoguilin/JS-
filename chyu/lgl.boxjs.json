@@ -460,7 +460,7 @@
        {
       "id": "ksjs",
       "name": "快手极速版",
-      "keys": ["kshd", "ksgjbody", "ksurl"], 
+      "keys": ["kshd", "ksgjbody", "ggqqbody", "ksurl"], 
       "repo": "https://github.com/laoguilin/", 
       "script": "https://raw.githubusercontent.com/laoguilin/", 
       "icons": [ "https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png","https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png"]
