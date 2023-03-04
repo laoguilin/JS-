@@ -27,100 +27,12 @@
         "icons": ["https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png", "https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png"],
         "script": "https://raw.githubusercontent.com/laoguilin/JS-/main/10000/qdws.js"
         },
-        {
-      "id": "zglt",
-      "name": "中国联通",
-      "keys": ["LtQdurl", "LtQdhd"], 
-      "repo": "https://github.com/laoguilin/", 
-      "script": "https://raw.githubusercontent.com/laoguilin/", 
-      "icons": [ "https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png","https://cdn.jsdelivr.net/gh/laoguilin/JS-@main/img/dx.png"]
-       },
        {
       "id": "alypqd",
       "name": "阿里云盘签到",
       "keys": ["ALI_TOKEN"], 
       "repo": "https://github.com/laoguilin/", 
-      "script": "https://raw.githubusercontent.com/laoguilin/", 
-      "icons": [""]
-       },
-       {
-      "id": "cy",
-      "name": "成语",
-      "keys": ["chyubody", "chyutoken"], 
-      "repo": "https://github.com/laoguilin/", 
-      "script": "https://raw.githubusercontent.com/laoguilin/", 
-      "icons": [""]
-       },
-       {
-      "id": "sq",
-      "name": "书旗",
-      "keys": ["sqbody", "sqheader", "sqjsurl", "sqjsbody", "sqjshd"], 
-      "repo": "https://github.com/laoguilin/", 
-      "script": "https://raw.githubusercontent.com/laoguilin/", 
-      "icons": [""]
-       },
-       {
-      "id": "dtwz",
-      "name": "答题王者",
-      "keys": ["dtwzhd", "dtwzbody"], 
-      "repo": "https://github.com/laoguilin/", 
-      "script": "https://raw.githubusercontent.com/laoguilin/", 
-      "icons": [""]
-       },
-       {
-      "id": "xyzp",
-      "name": "幸运转盘",
-      "keys": ["xyzphd", "xyzpbody"], 
-      "repo": "https://github.com/laoguilin/", 
-      "script": "https://raw.githubusercontent.com/laoguilin/", 
-      "icons": [""]
-       },
-       {
-      "id": "dwwg",
-      "name": "动物王国",
-      "keys": ["dwwghd", "dwwgurl"], 
-      "repo": "https://github.com/laoguilin/", 
-      "script": "https://raw.githubusercontent.com/laoguilin/", 
-      "icons": [""]
-       },
-       {
-            "id": "JM",
-            "name": "芥么",
-            "keys": ["jmhd", "jmbody", "jmtxbody", "jmhd2", "jmbody2", "jmtxbody2", "jmhd3", "jmbody3", "jmtxbody3", "jmhd4", "jmbody4", "jmtxbody4"],
-            "author": "@laoguilin",
-            "settings": [
-                {
-                    "id": "jmstatus",
-                    "name": "当前账号",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "当前抓取ck记录的账号序号，如：1、2、3、4"
-                },
-                {
-                    "id": "jmcount",
-                    "name": "账号个数",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-                },
-                {
-                    "id": "jmtz",
-                    "name": "通知",
-                    "val": "0",
-                    "type": "number",
-                    "desc": "0关闭通知，1打开通知"
-                }
-            ],
-            "repo": "",
-            "icons": ["",""],
-            "script": ""
-        },
-        {
-      "id": "hlzc",
-      "name": "欢乐找茬",
-      "keys": ["hlzchd", "hlzcbody", "hlzcsphd", "hlzcspbody"], 
-      "repo": "https://github.com/laoguilin/", 
-      "script": "https://raw.githubusercontent.com/laoguilin/", 
+      "script": "https://raw.githubusercontent.com/passerby-b/jscript/main/aliyun_sign.js", 
       "icons": [""]
        },
        {
