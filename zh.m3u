@@ -181,7 +181,7 @@ http://192.168.1.68:35460/bptv/10000100000000050000000003887499.m3u8
 http://192.168.1.68:35460/bptv/10000100000000050000000003887500.m3u8
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京体育休闲4K.png" group-title="4K8K频道",北京体育休闲-4K
 http://192.168.1.68:35460/bptv/10000100000000050000000004270525.m3u8
-#EXTINF:-1 tvg-id="北京体育休闲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京体育休闲.png" group-title="北京",北京体育休闲
+#EXTINF:-1 tvg-id="北京体育休闲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京体育休闲.png" group-title="北京BPTV",北京体育休闲
 http://192.168.1.68:35460/bptv/10000100000000050000000003870779.m3u8
 #EXTINF:-1 tvg-id="北京新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京新闻.png" group-title="北京BPTV",北京新闻
 http://192.168.1.68:35460/bptv/10000100000000050000000003870780.m3u8
@@ -339,67 +339,68 @@ http://192.168.1.68:35460/itv/6000000002000032052.m3u8?cdn=wasusyt
 http://192.168.1.68:35460/itv/6000000002000032344.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="求索生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/求索生活.png" group-title="其他",求索生活
 http://192.168.1.68:35460/itv/6000000002000003382.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="NewTV精品综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品综合.png" group-title="NEWTV",NewTV-精品综合
+#EXTINF:-1 tvg-id="NewTV精品综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品综合.png" group-title="NewTV频道",NewTV精品综合
 http://192.168.1.68:35460/itv/1000000004000019008.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="newtv精品大剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品大剧.png" group-title="NEWTV",NewTV-精品大剧
+#EXTINF:-1 tvg-id="NewTV精品大剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品大剧.png" group-title="NewTV频道",NewTV精品大剧
 http://192.168.1.68:35460/itv/1000000004000013968.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="newtv精品纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品纪录.png" group-title="NEWTV",NewTV-精品纪录
+#EXTINF:-1 tvg-id="NewTV精品纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品纪录.png" group-title="NewTV频道",NewTV精品纪录
 http://192.168.1.68:35460/itv/1000000004000013730.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="newtv精品体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品体育.png" group-title="NEWTV",NewTV-精品体育
+#EXTINF:-1 tvg-id="NewTV精品体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品体育.png" group-title="NewTV频道",NewTV精品体育
 http://192.168.1.68:35460/itv/1000000004000014634.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="NEWTV精品萌宠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品萌宠.png" group-title="NEWTV",NewTV-精品萌宠
+#EXTINF:-1 tvg-id="NewTV精品萌宠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品萌宠.png" group-title="NewTV频道",NewTV精品萌宠
 http://192.168.1.68:35460/itv/1000000006000032328.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="newtv爱情喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV爱情喜剧.png" group-title="NEWTV",NewTV-爱情喜剧
+#EXTINF:-1 tvg-id="NewTV爱情喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV爱情喜剧.png" group-title="NewTV频道",NewTV爱情喜剧
 http://192.168.1.68:35460/itv/2000000003000000010.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="newtv超级电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电视剧.png" group-title="NEWTV",NewTV-超级电视剧
+#EXTINF:-1 tvg-id="NewTV超级电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电视剧.png" group-title="NewTV频道",NewTV超级电视剧
 http://192.168.1.68:35460/itv/1000000006000268003.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="newtv超级电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电影.png" group-title="NEWTV",NewTV-超级电影
+#EXTINF:-1 tvg-id="NewTV超级电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电影.png" group-title="NewTV频道",NewTV超级电影
 http://192.168.1.68:35460/itv/1000000003000012426.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="newtv超级体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级体育.png" group-title="NEWTV",NewTV-超级体育
+#EXTINF:-1 tvg-id="NewTV超级体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级体育.png" group-title="NewTV频道",NewTV超级体育
 http://192.168.1.68:35460/itv/1000000001000009601.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="newtv超级综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级综艺.png" group-title="NEWTV",NewTV-超级综艺
+#EXTINF:-1 tvg-id="NewTV超级综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级综艺.png" group-title="NewTV频道",NewTV超级综艺
 http://192.168.1.68:35460/itv/1000000006000268002.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="newtv潮妈辣婆" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV潮妈辣婆.png" group-title="NEWTV",NewTV-潮妈辣婆
+#EXTINF:-1 tvg-id="NewTV潮妈辣婆" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV潮妈辣婆.png" group-title="NewTV频道",NewTV潮妈辣婆
 http://192.168.1.68:35460/itv/2000000003000000018.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="NewTV东北热剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV东北热剧.png" group-title="NEWTV",NewTV-东北热剧
+#EXTINF:-1 tvg-id="NewTV东北热剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV东北热剧.png" group-title="NewTV频道",NewTV东北热剧
 http://192.168.1.68:35460/itv/1000000005000266013.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="newtv动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV动作电影.png" group-title="NEWTV",NewTV-动作电影
+#EXTINF:-1 tvg-id="NewTV动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV动作电影.png" group-title="NewTV频道",NewTV动作电影
 http://192.168.1.68:35460/itv/1000000004000018653.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="NewTV古装剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV古装剧场.png" group-title="NEWTV",NewTV-古装剧场
+#EXTINF:-1 tvg-id="NewTV古装剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV古装剧场.png" group-title="NewTV频道",NewTV古装剧场
 http://192.168.1.68:35460/itv/2000000003000000024.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="NewTV欢乐剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV欢乐剧场.png" group-title="NEWTV",NewTV-欢乐剧场
+#EXTINF:-1 tvg-id="NewTV欢乐剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV欢乐剧场.png" group-title="NewTV频道",NewTV欢乐剧场
 http://192.168.1.68:35460/itv/1000000005000266012.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="newtv家庭剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV家庭剧场.png" group-title="NEWTV",NewTV-家庭剧场
+#EXTINF:-1 tvg-id="NewTV家庭剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV家庭剧场.png" group-title="NewTV频道",NewTV家庭剧场
 http://192.168.1.68:35460/itv/1000000004000008284.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV金牌综艺.png" group-title="NEWTV",NewTV-金牌综艺
+#EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV金牌综艺.png" group-title="NewTV频道",NewTV金牌综艺
 http://192.168.1.68:35460/itv/1000000004000026167.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="newtv惊悚悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV惊悚悬疑.png" group-title="NEWTV",NewTV-惊悚悬疑
+#EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV惊悚悬疑.png" group-title="NewTV频道",NewTV惊悚悬疑
 http://192.168.1.68:35460/itv/1000000004000024282.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="newtv军旅剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV军旅剧场.png" group-title="NEWTV",NewTV-军旅剧场
+#EXTINF:-1 tvg-id="NewTV军旅剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV军旅剧场.png" group-title="NewTV频道",NewTV军旅剧场
 http://192.168.1.68:35460/itv/2000000003000000014.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="newtv军事评论" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV军事评论.png" group-title="NEWTV",NewTV-军事评论
+#EXTINF:-1 tvg-id="NewTV军事评论" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV军事评论.png" group-title="NewTV频道",NewTV军事评论
 http://192.168.1.68:35460/itv/2000000003000000022.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="NewTV魅力潇湘" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV魅力潇湘.png" group-title="NEWTV",NewTV-魅力潇湘
+#EXTINF:-1 tvg-id="NewTV魅力潇湘" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV魅力潇湘.png" group-title="NewTV频道",NewTV魅力潇湘
 http://192.168.1.68:35460/itv/1000000001000006197.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="NewTV明星大片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV明星大片.png" group-title="NEWTV",NewTV-明星大片
+#EXTINF:-1 tvg-id="NewTV明星大片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV明星大片.png" group-title="NewTV频道",NewTV明星大片
 http://192.168.1.68:35460/itv/2000000003000000016.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="newtv农业致富" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV农业致富.png" group-title="NEWTV",NewTV-农业致富
+#EXTINF:-1 tvg-id="newtv农业致富" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV农业致富.png" group-title="NewTV频道",NewTV农业致富
 http://192.168.1.68:35460/itv/2000000003000000003.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="NEWTV武博世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV武博世界.png" group-title="NEWTV",NewTV-武博世界
+#EXTINF:-1 tvg-id="NEWTV武博世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV武博世界.png" group-title="NewTV频道",NewTV武博世界
 http://192.168.1.68:35460/itv/2000000003000000007.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="newtv炫舞未来" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV炫舞未来.png" group-title="NEWTV",NewTV-炫舞未来
+#EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV炫舞未来.png" group-title="NewTV频道",NewTV炫舞未来
 http://192.168.1.68:35460/itv/1000000001000000515.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="newtv怡伴健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV怡伴健康.png" group-title="NEWTV",NewTV-怡伴健康
+#EXTINF:-1 tvg-id="NewTV怡伴健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV怡伴健康.png" group-title="NewTV频道",NewTV怡伴健康
 http://192.168.1.68:35460/itv/1000000005000266011.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="newtv中国功夫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV中国功夫.png" group-title="NEWTV",NewTV-中国功夫
+#EXTINF:-1 tvg-id="NewTV中国功夫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV中国功夫.png" group-title="NewTV频道",NewTV中国功夫
 http://192.168.1.68:35460/itv/2000000003000000009.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="NEWTV黑莓电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV黑莓电影.png" group-title="NEWTV",NewTV-黑莓电影
+#EXTINF:-1 tvg-id="NewTV黑莓电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV黑莓电影.png" group-title="NewTV频道",NewTV黑莓电影
 http://192.168.1.68:35460/itv/1000000004000019624.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="NEWTV黑莓动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV黑莓动画.png" group-title="NEWTV",NewTV-黑莓动画
+#EXTINF:-1 tvg-id="NewTV黑莓动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV黑莓动画.png" group-title="NewTV频道",NewTV黑莓动画
 http://192.168.1.68:35460/itv/1000000004000021734.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="NEWTV哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV哒啵电竞.png" group-title="NEWTV",NewTV-哒啵电竞
+#EXTINF:-1 tvg-id="NewTV哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV哒啵电竞.png" group-title="NewTV频道",NewTV哒啵电竞
 http://192.168.1.68:35460/itv/1000000006000032327.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="NEWTV哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV哒啵赛事.png" group-title="NEWTV",NewTV-哒啵赛事
+#EXTINF:-1 tvg-id="NewTV哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV哒啵赛事.png" group-title="NewTV频道",NewTV哒啵赛事
+
 http://192.168.1.68:35460/itv/1000000001000003775.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="SITV动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SITV动漫秀场.png" group-title="其他",SiTV-动漫秀场
 http://192.168.1.68:35460/itv/5000000011000031113.m3u8?cdn=bestzb
@@ -425,46 +426,47 @@ http://192.168.1.68:35460/itv/5000000011000031116.m3u8?cdn=bestzb
 http://192.168.1.68:35460/itv/5000000002000019634.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="SITV游戏风云" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SITV游戏风云.png" group-title="其他",SiTV-游戏风云
 http://192.168.1.68:35460/itv/5000000011000031114.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="IHOT爱电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱电竞.png" group-title="IHOT",iHOT-爱电竞
+#EXTINF:-1 tvg-id="iHOT爱电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱电竞.png" group-title="iHOT频道",爱电竞
 http://192.168.1.68:35460/itv/6000000006000230630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱谍战" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱谍战.png" group-title="IHOT",iHOT-爱谍战
+#EXTINF:-1 tvg-id="iHOT爱谍战" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱谍战.png" group-title="iHOT频道",爱谍战
 http://192.168.1.68:35460/itv/6000000006000070630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱动漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱动漫.png" group-title="IHOT",iHOT-爱动漫
+#EXTINF:-1 tvg-id="iHOT爱动漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱动漫.png" group-title="iHOT频道",爱动漫
 http://192.168.1.68:35460/itv/6000000006000280630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱都市.png" group-title="IHOT",iHOT-爱都市
+#EXTINF:-1 tvg-id="iHOT爱都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱都市.png" group-title="iHOT频道",爱都市
 http://192.168.1.68:35460/itv/6000000006000080630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱怀旧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱怀旧.png" group-title="IHOT",iHOT-爱怀旧
+#EXTINF:-1 tvg-id="iHOT爱怀旧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱怀旧.png" group-title="iHOT频道",爱怀旧
 http://192.168.1.68:35460/itv/6000000006000260630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱经典.png" group-title="IHOT",iHOT-爱经典
+#EXTINF:-1 tvg-id="iHOT爱经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱经典.png" group-title="iHOT频道",爱经典
 http://192.168.1.68:35460/itv/6000000006000060630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱科幻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱科幻.png" group-title="IHOT",iHOT-爱科幻
+#EXTINF:-1 tvg-id="iHOT爱科幻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱科幻.png" group-title="iHOT频道",爱科幻
 http://192.168.1.68:35460/itv/6000000006000020630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱科学" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱科学.png" group-title="IHOT",iHOT-爱科学
+#EXTINF:-1 tvg-id="iHOT爱科学" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱科学.png" group-title="iHOT频道",爱科学
 http://192.168.1.68:35460/itv/6000000006000160630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱浪漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱浪漫.png" group-title="IHOT",iHOT-爱浪漫
+#EXTINF:-1 tvg-id="iHOT爱浪漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱浪漫.png" group-title="iHOT频道",爱浪漫
 http://192.168.1.68:35460/itv/6000000006000040630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱历史" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱历史.png" group-title="IHOT",iHOT-爱历史
+#EXTINF:-1 tvg-id="iHOT爱历史" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱历史.png" group-title="iHOT频道",爱历史
 http://192.168.1.68:35460/itv/6000000006000150630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱旅行" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱旅行.png" group-title="IHOT",iHOT-爱旅行
+#EXTINF:-1 tvg-id="iHOT爱旅行" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱旅行.png" group-title="iHOT频道",爱旅行
 http://192.168.1.68:35460/itv/6000000006000250630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱奇谈" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱奇谈.png" group-title="IHOT",iHOT-爱奇谈
+#EXTINF:-1 tvg-id="iHOT爱奇谈" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱奇谈.png" group-title="iHOT频道",爱奇谈
 http://192.168.1.68:35460/itv/6000000006000270630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱青春" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱青春.png" group-title="IHOT",iHOT-爱青春
+#EXTINF:-1 tvg-id="iHOT爱青春" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱青春.png" group-title="iHOT频道",爱青春
 http://192.168.1.68:35460/itv/6000000006000100630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱赛车" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱赛车.png" group-title="IHOT",iHOT-爱赛车
+#EXTINF:-1 tvg-id="iHOT爱赛车" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱赛车.png" group-title="iHOT频道",爱赛车
 http://192.168.1.68:35460/itv/6000000006000240630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱体育.png" group-title="IHOT",iHOT-爱体育
+#EXTINF:-1 tvg-id="iHOT爱体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱体育.png" group-title="iHOT频道",爱体育
 http://192.168.1.68:35460/itv/6000000006000290630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱玩具" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱玩具.png" group-title="IHOT",iHOT-爱玩具
+#EXTINF:-1 tvg-id="iHOT爱玩具" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱玩具.png" group-title="iHOT频道",爱玩具
 http://192.168.1.68:35460/itv/6000000006000220630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱喜剧.png" group-title="IHOT",iHOT-爱喜剧
+#EXTINF:-1 tvg-id="iHOT爱喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱喜剧.png" group-title="iHOT频道",爱喜剧
 http://192.168.1.68:35460/itv/6000000006000010630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱悬疑.png" group-title="IHOT",iHOT-爱悬疑
+#EXTINF:-1 tvg-id="iHOT爱悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱悬疑.png" group-title="iHOT频道",爱悬疑
 http://192.168.1.68:35460/itv/6000000006000050630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱幼教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱幼教.png" group-title="IHOT",iHOT-爱幼教
+#EXTINF:-1 tvg-id="iHOT爱幼教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱幼教.png" group-title="iHOT频道",爱幼教
 http://192.168.1.68:35460/itv/6000000006000180630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-id="IHOT爱院线" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱院线.png" group-title="IHOT",iHOT-爱院线
+#EXTINF:-1 tvg-id="iHOT爱院线" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IHOT爱院线.png" group-title="iHOT频道",爱院线
 http://192.168.1.68:35460/itv/6000000006000030630.m3u8?cdn=wasusyt
+
 #EXTINF:-1 tvg-id=咪咕全民热练 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕.png" group-title="咪咕体育",咪咕全民热练
 http://192.168.1.68:35460/itv/2000000003000000068.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id=咪咕全民热练 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕.png" group-title="咪咕体育",咪咕全民热练
@@ -1204,20 +1206,6 @@ http://192.168.1.68:50101/TVOD/2000000002000000064/hnbblive/index.m3u8
 http://192.168.1.68:50101/TVOD/5000000011000031208/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="财富天下" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/财富天下.png" group-title="卫视频道",江苏财富天下
 http://192.168.1.68:50101/TVOD/2000000002000000069/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵电竞.png" group-title="卫视频道",哒啵电竞
-http://192.168.1.68:50101/TVOD/2000000003000000066/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵电竞.png" group-title="卫视频道",哒啵电竞
-http://192.168.1.68:50101/TVOD/1000000006000032327/ystenlive/index.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="卫视频道",哒啵赛事
-http://192.168.1.68:50101/TVOD/2000000003000000004/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="卫视频道",哒啵赛事
-http://192.168.1.68:50101/TVOD/2000000003000000039/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="卫视频道",哒啵赛事
-http://192.168.1.68:50101/TVOD/2000000003000000040/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="卫视频道",哒啵赛事
-http://192.168.1.68:50101/TVOD/1000000001000003775/ystenlive/index.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="卫视频道",哒啵赛事
-http://192.168.1.68:50101/TVOD/1000000001000006906/ystenlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://logo.doube.eu.org/IPTV.png" group-title="卫视频道",电子竞技
 http://192.168.1.68:50101/TVOD/2000000004000000015/hnbblive/index.m3u8
 #EXTINF:-1 tvg-logo="https://logo.doube.eu.org/IPTV.png" group-title="卫视频道",电子竞技
@@ -1226,14 +1214,6 @@ http://192.168.1.68:50101/TVOD/6000000003000011654/wasusyt/index.m3u8
 http://192.168.1.68:50101/TVOD/2000000004000000013/hnbblive/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数高清娱乐.png" group-title="卫视频道",高清娱乐
 http://192.168.1.68:50101/TVOD/6000000003000001569/wasusyt/index.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓电影.png" group-title="卫视频道",黑莓电影
-http://192.168.1.68:50101/TVOD/2000000003000000001/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓电影.png" group-title="卫视频道",黑莓电影
-http://192.168.1.68:50101/TVOD/1000000004000019624/ystenlive/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓动画.png" group-title="卫视频道",黑莓动画
-http://192.168.1.68:50101/TVOD/2000000003000000002/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓动画.png" group-title="卫视频道",黑莓动画
-http://192.168.1.68:50101/TVOD/1000000004000021734/ystenlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://logo.doube.eu.org/IPTV.png" group-title="卫视频道",华数服务
 http://192.168.1.68:50101/TVOD/2000000004000000025/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="精彩影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/精彩影视.png" group-title="卫视频道",精彩影视
@@ -1277,113 +1257,135 @@ http://192.168.1.68:50101/TVOD/2000000004000000006/hnbblive/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOT.png" group-title="HOT频道",Hot亚洲影院
 http://192.168.1.68:50101/TVOD/5841816227539527643/wasusyt/index.m3u8
 #EXTINF:-1 tvg-id="NewTV爱情喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV爱情喜剧.png" group-title="NewTV频道",NewTV爱情喜剧
-http://192.168.1.68:50101/TVOD/2000000003000000010/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000010/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电视剧.png" group-title="NewTV频道",NewTV超级电视剧
-http://192.168.1.68:50101/TVOD/1000000006000268003/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000006000268003/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电视剧.png" group-title="NewTV频道",NewTV超级电视剧
-http://192.168.1.68:50101/TVOD/2000000003000000032/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000032/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电视剧.png" group-title="NewTV频道",NewTV超级电视剧
-http://192.168.1.68:50101/TVOD/1000000001000008139/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000001000008139/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电视剧.png" group-title="NewTV频道",NewTV超级电视剧
-http://192.168.1.68:50101/TVOD/1000000004000024993/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000004000024993/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电影.png" group-title="NewTV频道",NewTV超级电影
-http://192.168.1.68:50101/TVOD/1000000003000012426/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000003000012426/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电影.png" group-title="NewTV频道",NewTV超级电影
-http://192.168.1.68:50101/TVOD/2000000003000000031/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000031/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电影.png" group-title="NewTV频道",NewTV超级电影
-http://192.168.1.68:50101/TVOD/1000000001000012884/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000001000012884/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级电影.png" group-title="NewTV频道",NewTV超级电影
-http://192.168.1.68:50101/TVOD/1000000004000002120/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000004000002120/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级体育.png" group-title="NewTV频道",NewTV超级体育
-http://192.168.1.68:50101/TVOD/1000000001000009601/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000001000009601/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级体育.png" group-title="NewTV频道",NewTV超级体育
-http://192.168.1.68:50101/TVOD/2000000003000000030/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000030/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级体育.png" group-title="NewTV频道",NewTV超级体育
-http://192.168.1.68:50101/TVOD/1000000001000009204/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000001000009204/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级体育.png" group-title="NewTV频道",NewTV超级体育
-http://192.168.1.68:50101/TVOD/1000000004000007755/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000004000007755/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级综艺.png" group-title="NewTV频道",NewTV超级综艺
-http://192.168.1.68:50101/TVOD/1000000006000268002/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000006000268002/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级综艺.png" group-title="NewTV频道",NewTV超级综艺
-http://192.168.1.68:50101/TVOD/2000000003000000029/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000029/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级综艺.png" group-title="NewTV频道",NewTV超级综艺
-http://192.168.1.68:50101/TVOD/1000000001000025771/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000001000025771/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV超级综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV超级综艺.png" group-title="NewTV频道",NewTV超级综艺
-http://192.168.1.68:50101/TVOD/1000000004000023658/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000004000023658/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV潮妈辣婆" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV潮妈辣婆.png" group-title="NewTV频道",NewTV潮妈辣婆
-http://192.168.1.68:50101/TVOD/2000000003000000018/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="NewTV东北热剧" tvg-logo="https://logo.doube.eu.org/NewTV东北热剧.png" group-title="NewTV频道",NewTV东北剧场
-http://192.168.1.68:50101/TVOD/1000000005000266013/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000018/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV东北热剧" tvg-logo="https://json.doube.eu.org/logo/NewTV东北热剧.png" group-title="NewTV频道",NewTV东北剧场
+http://103.244.89.148:50001/TVOD/1000000005000266013/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV东北热剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV东北热剧.png" group-title="NewTV频道",NewTV东北热剧
-http://192.168.1.68:50101/TVOD/2000000003000000051/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000051/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV动作电影.png" group-title="NewTV频道",NewTV动作电影
-http://192.168.1.68:50101/TVOD/2000000003000000017/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000017/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV动作电影.png" group-title="NewTV频道",NewTV动作电影
-http://192.168.1.68:50101/TVOD/1000000004000018653/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000004000018653/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV古装剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV古装剧场.png" group-title="NewTV频道",NewTV古装剧场
-http://192.168.1.68:50101/TVOD/2000000003000000024/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000024/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV欢乐剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV欢乐剧场.png" group-title="NewTV频道",NewTV欢乐剧场
-http://192.168.1.68:50101/TVOD/2000000003000000050/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000050/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV欢乐剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV欢乐剧场.png" group-title="NewTV频道",NewTV欢乐剧场
-http://192.168.1.68:50101/TVOD/1000000005000266012/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000005000266012/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV家庭剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV家庭剧场.png" group-title="NewTV频道",NewTV家庭剧场
-http://192.168.1.68:50101/TVOD/2000000003000000012/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000012/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV家庭剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV家庭剧场.png" group-title="NewTV频道",NewTV家庭剧场
-http://192.168.1.68:50101/TVOD/1000000004000008284/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000004000008284/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV金牌综艺.png" group-title="NewTV频道",NewTV金牌综艺
-http://192.168.1.68:50101/TVOD/2000000003000000005/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000005/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV金牌综艺.png" group-title="NewTV频道",NewTV金牌综艺
-http://192.168.1.68:50101/TVOD/1000000004000026167/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000004000026167/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV惊悚悬疑.png" group-title="NewTV频道",NewTV惊悚悬疑
-http://192.168.1.68:50101/TVOD/2000000003000000015/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000015/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV惊悚悬疑.png" group-title="NewTV频道",NewTV惊悚悬疑
-http://192.168.1.68:50101/TVOD/1000000004000024282/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000004000024282/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV精品大剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品大剧.png" group-title="NewTV频道",NewTV精品大剧
-http://192.168.1.68:50101/TVOD/2000000003000000020/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000020/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV精品大剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品大剧.png" group-title="NewTV频道",NewTV精品大剧
-http://192.168.1.68:50101/TVOD/1000000004000013968/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000004000013968/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV精品纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品纪录.png" group-title="NewTV频道",NewTV精品纪录
-http://192.168.1.68:50101/TVOD/1000000004000013730/ystenlive/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-logo="https://logo.doube.eu.org/NewTV.png" group-title="NewTV频道",NewTV精品记录
-http://192.168.1.68:50101/TVOD/2000000003000000019/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000004000013730/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV" tvg-logo="https://json.doube.eu.org/logo/NewTV.png" group-title="NewTV频道",NewTV精品记录
+http://103.244.89.148:50001/TVOD/2000000003000000019/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV精品萌宠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品萌宠.png" group-title="NewTV频道",NewTV精品萌宠
-http://192.168.1.68:50101/TVOD/2000000003000000067/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000067/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV精品萌宠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品萌宠.png" group-title="NewTV频道",NewTV精品萌宠
-http://192.168.1.68:50101/TVOD/1000000006000032328/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000006000032328/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV精品体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品体育.png" group-title="NewTV频道",NewTV精品体育
-http://192.168.1.68:50101/TVOD/2000000003000000021/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000021/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV精品体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品体育.png" group-title="NewTV频道",NewTV精品体育
-http://192.168.1.68:50101/TVOD/1000000004000014634/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000004000014634/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品综合.png" group-title="NewTV频道",NewTV精品综合
-http://192.168.1.68:50101/TVOD/2000000003000000008/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000008/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品综合.png" group-title="NewTV频道",NewTV精品综合
-http://192.168.1.68:50101/TVOD/1000000004000019008/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000004000019008/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV军旅剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV军旅剧场.png" group-title="NewTV频道",NewTV军旅剧场
-http://192.168.1.68:50101/TVOD/2000000003000000014/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000014/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV军事评论" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV军事评论.png" group-title="NewTV频道",NewTV军事评论
-http://192.168.1.68:50101/TVOD/2000000003000000022/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000022/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV魅力潇湘" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV魅力潇湘.png" group-title="NewTV频道",NewTV魅力潇湘
-http://192.168.1.68:50101/TVOD/2000000003000000041/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000041/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV魅力潇湘" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV魅力潇湘.png" group-title="NewTV频道",NewTV魅力潇湘
-http://192.168.1.68:50101/TVOD/1000000001000006197/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000001000006197/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV魅力潇湘" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV魅力潇湘.png" group-title="NewTV频道",NewTV魅力潇湘
-http://192.168.1.68:50101/TVOD/1000000005000266014/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000005000266014/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV明星大片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV明星大片.png" group-title="NewTV频道",NewTV明星大片
-http://192.168.1.68:50101/TVOD/2000000003000000016/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000016/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV农业致富" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV农业致富.png" group-title="NewTV频道",NewTV农业致富
-http://192.168.1.68:50101/TVOD/2000000003000000003/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000003/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV武搏世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV武博世界.png" group-title="NewTV频道",NewTV武博世界
-http://192.168.1.68:50101/TVOD/2000000003000000007/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000007/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV炫舞未来.png" group-title="NewTV频道",NewTV炫舞未来
-http://192.168.1.68:50101/TVOD/2000000003000000044/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000044/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV炫舞未来.png" group-title="NewTV频道",NewTV炫舞未来
-http://192.168.1.68:50101/TVOD/1000000001000000515/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000001000000515/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV怡伴健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV怡伴健康.png" group-title="NewTV频道",NewTV怡伴健康
-http://192.168.1.68:50101/TVOD/2000000003000000023/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000023/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV怡伴健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV怡伴健康.png" group-title="NewTV频道",NewTV怡伴健康
-http://192.168.1.68:50101/TVOD/1000000005000266011/ystenlive/index.m3u8
+http://103.244.89.148:50001/TVOD/1000000005000266011/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV中国功夫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV中国功夫.png" group-title="NewTV频道",NewTV中国功夫
-http://192.168.1.68:50101/TVOD/2000000003000000009/hnbblive/index.m3u8
+http://103.244.89.148:50001/TVOD/2000000003000000009/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV黑莓电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓电影.png" group-title="NewTV频道",NewTV黑莓电影
+http://103.244.89.148:50001/TVOD/2000000003000000001/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV黑莓电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓电影.png" group-title="NewTV频道",NewTV黑莓电影
+http://103.244.89.148:50001/TVOD/1000000004000019624/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV黑莓动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓动画.png" group-title="NewTV频道",NewTV黑莓动画
+http://103.244.89.148:50001/TVOD/2000000003000000002/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV黑莓动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓动画.png" group-title="NewTV频道",NewTV黑莓动画
+http://103.244.89.148:50001/TVOD/1000000004000021734/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵电竞.png" group-title="NewTV频道",NewTV哒啵电竞
+http://103.244.89.148:50001/TVOD/2000000003000000066/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵电竞.png" group-title="NewTV频道",NewTV哒啵电竞
+http://103.244.89.148:50001/TVOD/1000000006000032327/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="NewTV频道",NewTV哒啵赛事
+http://103.244.89.148:50001/TVOD/2000000003000000004/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="NewTV频道",NewTV哒啵赛事
+http://103.244.89.148:50001/TVOD/2000000003000000039/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="NewTV频道",NewTV哒啵赛事
+http://103.244.89.148:50001/TVOD/2000000003000000040/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="NewTV频道",NewTV哒啵赛事
+http://103.244.89.148:50001/TVOD/1000000001000003775/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="NewTV频道",NewTV哒啵赛事
+http://103.244.89.148:50001/TVOD/1000000001000006906/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SITV动漫秀场.png" group-title="SiTV频道",SiTV动漫秀场
 http://192.168.1.68:50101/TVOD/5000000011000031113/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SITV动漫秀场.png" group-title="SiTV频道",SiTV动漫秀场
@@ -2375,20 +2377,6 @@ http://103.244.89.148:50001/TVOD/2000000002000000064/hnbblive/index.m3u8
 http://103.244.89.148:50001/TVOD/5000000011000031208/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="财富天下" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/财富天下.png" group-title="卫视频道",江苏财富天下
 http://103.244.89.148:50001/TVOD/2000000002000000069/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵电竞.png" group-title="卫视频道",哒啵电竞
-http://103.244.89.148:50001/TVOD/2000000003000000066/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵电竞.png" group-title="卫视频道",哒啵电竞
-http://103.244.89.148:50001/TVOD/1000000006000032327/ystenlive/index.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="卫视频道",哒啵赛事
-http://103.244.89.148:50001/TVOD/2000000003000000004/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="卫视频道",哒啵赛事
-http://103.244.89.148:50001/TVOD/2000000003000000039/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="卫视频道",哒啵赛事
-http://103.244.89.148:50001/TVOD/2000000003000000040/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="卫视频道",哒啵赛事
-http://103.244.89.148:50001/TVOD/1000000001000003775/ystenlive/index.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="卫视频道",哒啵赛事
-http://103.244.89.148:50001/TVOD/1000000001000006906/ystenlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="卫视频道",电子竞技
 http://103.244.89.148:50001/TVOD/2000000004000000015/hnbblive/index.m3u8
 #EXTINF:-1 tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="卫视频道",电子竞技
@@ -2397,14 +2385,6 @@ http://103.244.89.148:50001/TVOD/6000000003000011654/wasusyt/index.m3u8
 http://103.244.89.148:50001/TVOD/2000000004000000013/hnbblive/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华数高清娱乐.png" group-title="卫视频道",高清娱乐
 http://103.244.89.148:50001/TVOD/6000000003000001569/wasusyt/index.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓电影.png" group-title="卫视频道",黑莓电影
-http://103.244.89.148:50001/TVOD/2000000003000000001/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓电影.png" group-title="卫视频道",黑莓电影
-http://103.244.89.148:50001/TVOD/1000000004000019624/ystenlive/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓动画.png" group-title="卫视频道",黑莓动画
-http://103.244.89.148:50001/TVOD/2000000003000000002/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓动画.png" group-title="卫视频道",黑莓动画
-http://103.244.89.148:50001/TVOD/1000000004000021734/ystenlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="卫视频道",华数服务
 http://103.244.89.148:50001/TVOD/2000000004000000025/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="精彩影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/精彩影视.png" group-title="卫视频道",精彩影视
@@ -2555,6 +2535,28 @@ http://103.244.89.148:50001/TVOD/2000000003000000023/hnbblive/index.m3u8
 http://103.244.89.148:50001/TVOD/1000000005000266011/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="NewTV中国功夫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV中国功夫.png" group-title="NewTV频道",NewTV中国功夫
 http://103.244.89.148:50001/TVOD/2000000003000000009/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV黑莓电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓电影.png" group-title="NewTV频道",NewTV黑莓电影
+http://103.244.89.148:50001/TVOD/2000000003000000001/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV黑莓电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓电影.png" group-title="NewTV频道",NewTV黑莓电影
+http://103.244.89.148:50001/TVOD/1000000004000019624/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV黑莓动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓动画.png" group-title="NewTV频道",NewTV黑莓动画
+http://103.244.89.148:50001/TVOD/2000000003000000002/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV黑莓动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑莓动画.png" group-title="NewTV频道",NewTV黑莓动画
+http://103.244.89.148:50001/TVOD/1000000004000021734/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵电竞.png" group-title="NewTV频道",NewTV哒啵电竞
+http://103.244.89.148:50001/TVOD/2000000003000000066/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵电竞.png" group-title="NewTV频道",NewTV哒啵电竞
+http://103.244.89.148:50001/TVOD/1000000006000032327/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="NewTV频道",NewTV哒啵赛事
+http://103.244.89.148:50001/TVOD/2000000003000000004/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="NewTV频道",NewTV哒啵赛事
+http://103.244.89.148:50001/TVOD/2000000003000000039/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="NewTV频道",NewTV哒啵赛事
+http://103.244.89.148:50001/TVOD/2000000003000000040/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="NewTV频道",NewTV哒啵赛事
+http://103.244.89.148:50001/TVOD/1000000001000003775/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="NewTV哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="NewTV频道",NewTV哒啵赛事
+http://103.244.89.148:50001/TVOD/1000000001000006906/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SITV动漫秀场.png" group-title="SiTV频道",SiTV动漫秀场
 http://103.244.89.148:50001/TVOD/5000000011000031113/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SITV动漫秀场.png" group-title="SiTV频道",SiTV动漫秀场
